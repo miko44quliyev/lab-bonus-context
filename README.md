@@ -1,5 +1,7 @@
 # Lab: Hi, It's YOU!
 
+<img src="./public/main.png" width=300 />
+
 ## Introduction
 
 The team is starting a small internal app. There is a **Log
